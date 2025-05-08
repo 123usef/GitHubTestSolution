@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World to github ");
+            Console.WriteLine("Hello, World to github from joonguini!!");
         }
     }
 }
